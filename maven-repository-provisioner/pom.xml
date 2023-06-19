@@ -40,7 +40,7 @@
       <groupId>com.google.inject</groupId>
       <artifactId>guice</artifactId>
       <classifier>no_aop</classifier>
-      <version>4.2.3</version>
+      <version>5.0.0</version>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
